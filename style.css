@@ -1,4 +1,4 @@
-body {
+tbody {
     background:#eee;
     color:#333;
 }
@@ -9,6 +9,7 @@ body {
 
 .a1 {
     border:1px solid #666;
+    padding:10px;
 }
 
 .a2 {
