@@ -1,43 +1,44 @@
 body {
-
+    background:#eee;
+    color:#333;
 }
 
 .tateti-container {
-
+    background:#ccc;
 }
 
 .a1 {
-
+    border:1px solid #666;
 }
 
 .a2 {
-
+    border:1px solid #666;
 }
 
 .a3 {
-    
+    border:1px solid #666;
 }
 
 .b1 {
-    
+    border:1px solid #666;  
 }
 
 .b2 {
-    
+    border:1px solid #666;  
 }
 
 .b3 {
-    
+    border:1px solid #666; 
 }
 
 .c1 {
-    
+    border:1px solid #666; 
 }
 
 .c2 {
-    
+    border:1px solid #666;  
 }
 
 .c3 {
-    
+    border:1px solid #666; 
 }
